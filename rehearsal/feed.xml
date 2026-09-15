@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Isolated Usager installer rehearsal</title><item><title>Rehearsal build 2 — no Codex compatibility claim</title><sparkle:version>2</sparkle:version><sparkle:shortVersionString>1.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><enclosure url="https://gavinssr.github.io/usager-updates/rehearsal/Usager_Update_Rehearsal_build_2.zip" length="1173551" type="application/octet-stream" sparkle:edSignature="rwYG8IMlRB84e/6oIBLRHlKj4OgUSTJlCdUX9Opzf0qXPDCcc1LSLe6MNDnNcUOVJrz3sVib9VgHFdiUDUnlDg==" sparkle:os="macos"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: YfI06HOavO5dzKr29oaUcAJljc9nGYWuF04Yczd7xamh6tOmYGiUwDf355WYOzs4pfiEJppVaUM+dSOF2utBCA==
+length: 1056
+-->
