@@ -1,9 +1,1 @@
-{
-  "revision": 1,
-  "issuedAt": 1789487780,
-  "expiresAt": 1792079780,
-  "contractRevision": "consumed-v1-b1",
-  "rules": [],
-  "revokedRuleIDs": [],
-  "repairs": []
-}
+{"revision":2,"issuedAt":1789810502,"expiresAt":1792402502,"contractRevision":"consumed-v1-b1","rules":[{"engineVersion":"0.155.0-alpha.9.2","capability":"accountQuota","profileID":"accountQuota.v0_153_3.v1","minimumBuild":6},{"engineVersion":"0.155.0-alpha.9.2","capability":"taskList","profileID":"taskList.v0_153_3.v1","minimumBuild":6},{"engineVersion":"0.155.0-alpha.9.2","capability":"selectedTask","profileID":"selectedTask.v0_153_3.v1","minimumBuild":6}],"revokedRuleIDs":[],"repairs":[{"engineVersion":"0.155.0-alpha.9.2","capabilities":["selectedTask"],"build":7,"bundleID":"com.agentcontextusager.companion","minimumOSMajor":14,"architectures":["arm64"]}]}
