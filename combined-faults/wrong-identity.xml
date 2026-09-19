@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Isolated Usager installer rehearsal</title><item><title>Synthetic code repair build 4</title><ns0:version>4</ns0:version><ns0:shortVersionString>1.0.4</ns0:shortVersionString><ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion><ns0:hardwareRequirements>arm64</ns0:hardwareRequirements><enclosure url="https://gavinssr.github.io/usager-updates/combined-faults/wrong-identity.zip" length="2048787" type="application/octet-stream" ns0:edSignature="G4kIT5zQYDfq3qBKd88PxlcWDHfTr8Cfw0dBYilC7Zh8+YBZLYZF64kt+SpeTqWHhmgMqe1Yh9dWrSn0mpK5Dw==" ns0:os="macos"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: la2XHnOC7awMeWqGZ48KF2Nkd+aL5f6zBDWUvH/yYxnHCXYkSf9nmGhoa/Ra6q67+09Dr5gPQsW6xQltsmahDg==
+length: 980
+-->

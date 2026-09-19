@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Isolated Usager installer rehearsal</title><item><title>Synthetic code repair build 4</title><ns0:version>4</ns0:version><ns0:shortVersionString>1.0.4</ns0:shortVersionString><ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion><ns0:hardwareRequirements>arm64</ns0:hardwareRequirements><enclosure url="https://gavinssr.github.io/usager-updates/combined-faults/wrong-build.zip" length="2048773" type="application/octet-stream" ns0:edSignature="WO+zVzysPmEauNbapziNgIttw/OgE0RKF2NN6NU08BFaUOcuQw3PvsKoFM6SJPoVlSgW0HwgcdpWH23NQ9UpDQ==" ns0:os="macos"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: Dd1gHA0Mz9yLWDWmvMUB5J1XmHyV1O6AAYpZvFMj84Dffbq8FLVdXqwMQerP7jJ7yghFETZy40BSM9YFtbDeBg==
+length: 977
+-->
