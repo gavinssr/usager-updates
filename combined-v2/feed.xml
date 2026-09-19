@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Isolated Usager installer rehearsal</title><item><title>Synthetic code repair build 6</title><sparkle:version>6</sparkle:version><sparkle:shortVersionString>1.0.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><enclosure url="https://gavinssr.github.io/usager-updates/combined-v2/Usager_Update_Rehearsal_build_6.zip" length="2084360" type="application/octet-stream" sparkle:edSignature="Jfh7qfqQhpVcVFGU56TD/iBCsfTC8aALqziV5xorCTz5qrdL2M+9ICO4qbLKL9wnKx4ZKK7GzPyNMFc+DQkLDw==" sparkle:os="macos"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: PhQNYpSftVCzh3Ild7GeyoY3irksxO0e99PfVhkyr+oi1MoWA5uL915bhkxKgXbjBpYAihfFqfHHrAicfff1Dw==
+length: 1037
+-->
